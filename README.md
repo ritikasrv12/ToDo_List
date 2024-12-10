@@ -1,1 +1,2 @@
-# ToDo_List
+# todo-list
+A pretty TODO List with Javascript
